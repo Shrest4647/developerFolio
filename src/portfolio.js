@@ -142,7 +142,7 @@ const educationInfo = {
       logo: require("./assets/images/ioe.jpg"),
       subHeader: "Bachelors in Computer Engineering",
       duration: "November 2017 - April 2022",
-      desc: "Participated in the events and competitions organized by the college. \n Orgnaized events and competitions.",
+      desc: "Participated in the events and competitions organized by the college. \n Orgnaized events and competitions."
     }
   ]
 };
